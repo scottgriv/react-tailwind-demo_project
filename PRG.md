@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** React, Tailwind CSS <br>
 **Category:** Web Application <br>
-**Order:** 54 <br>
+**Order:** 51 <br>
 
 ## Parameters
 
